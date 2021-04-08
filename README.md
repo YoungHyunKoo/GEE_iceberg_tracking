@@ -6,3 +6,4 @@ Semi-automated tracking of iceberg B43
 - This Python-GEE tool was designed to semi-automatically track the area and drift of this iceberg
 
 ![](/images/Figure1_2.png)
+![](/images/Iceberg_trajectory.png)
